@@ -1,0 +1,2 @@
+//compiled:e6c8cb2a92c3b161bd1ce2e493e2e86f4a126b1a4454f86e0505fc72c86fff28
+{"code":"Object.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nObject.defineProperty(exports, \"main\", {\n  enumerable: true,\n  get: function get() {\n    return _newSessionDefault.main;\n  }\n});\nvar _newSessionDefault = require(\"./new-session-default\");","__mergedMap":null,"map":null}
